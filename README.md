@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header with Gradient Background -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Thiruvarankan%20M&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Computer%20Vision%20Engineer&descAlignY=51&descAlign=62"/>
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Code%20the%20Future&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Thiruvarankan%20M%20-%20AI%20%26%20Innovation%20Engineer&descAlignY=51&descAlign=62"/>
 
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🤖+AI+%26+Computer+Vision+Enthusiast;🎨+Creative+Problem+Solver;🚀+Innovation+Driven+Engineer;⚡+Building+Tomorrow's+Solutions" alt="Typing SVG" />
@@ -204,105 +204,34 @@
 
 </div>
 
-<!-- Featured Projects Section -->
-<div align="center">
-
-## 🚀 Featured Projects & Achievements
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🤖 AI Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiruvarankanM&repo=AI-Computer-Vision&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/ThiruvarankanM/AI-Computer-Vision)
-
-</td>
-<td align="center" width="33%">
-
-### 🔧 IoT Solutions  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiruvarankanM&repo=IoT-Automation&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/ThiruvarankanM/IoT-Automation)
-
-</td>
-<td align="center" width="33%">
-
-### 📊 Data Science
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiruvarankanM&repo=Data-Analysis&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/ThiruvarankanM/Data-Analysis)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Professional Services Section -->
-<div align="center">
-
-## 💼 Professional Services & Expertise
-
-<table>
-<tr>
-<td align="center" style="border-radius: 15px; background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #feca57); padding: 20px; color: white;">
-
-### 🎨 **Creative Services**
-**Graphic Design** • **Video Editing** • **Content Creation**  
-**Logo Design** • **Social Media Graphics** • **Brand Identity**
-
-### 🤖 **Technical Solutions**  
-**AI/ML Development** • **Computer Vision** • **Data Analysis**  
-**IoT Projects** • **Web Applications** • **Automation Systems**
-
-### 📈 **Business Impact**
-✅ **100+ Completed Orders** • ⭐ **80+ Five-Star Reviews**  
-🏆 **Level 2 Fiverr Seller** • 🎯 **Client Satisfaction: 98%**
-
-</td>
-</tr>
-</table>
-
-</div>
-
 <!-- Connect & Collaborate Section -->
 <div align="center">
 
-## 🌐 Connect & Collaborate
+## 🌐 Let's Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiruvarankanm07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:thiruvarankanm07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://www.fiverr.com/thiru_07" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-Hire_Me-00b22d?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=00b22d" alt="Fiverr"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.instagram.com/nm_thiru07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.facebook.com/share/1aQcfVLqEC/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
+  <a href="https://www.fiverr.com/thiru_07/edit-your-videoes-professionally-in-filmora" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-%2300b22d.svg?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
   </a>
 </p>
 
-<!-- Call to Action Box -->
+<!-- Professional Services Box -->
 <table align="center">
 <tr>
-<td align="center" style="border-radius: 15px; border: 3px solid #00D9FF; background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 25px; color: white;">
+<td align="center" style="border-radius: 10px; border: 2px solid #00D9FF; padding: 15px;">
 
-### 🤝 Ready to Collaborate?
-**Let's Build Something Amazing Together!**
-
-🎯 **Looking for:** AI/ML Projects • Computer Vision Solutions • Creative Content  
-🚀 **Available for:** Freelance Work • Collaborations • Consulting  
-💡 **Expertise in:** Python Development • Data Science • Graphic Design
-
-[📧 **Get in Touch**](mailto:thiruvarankanm07@gmail.com) | [💼 **View Portfolio**](https://www.fiverr.com/thiru_07)
+### 💼 Professional Services
+**🎨 Graphic Design** • **🎬 Video Editing** • **📊 Data Analysis**  
+**🤖 AI Solutions** • **🔧 IoT Projects** • **📱 App Development**
 
 </td>
 </tr>
@@ -347,15 +276,7 @@
 
 <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Let's%20Code%20the%20Future&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
-### 💭 *"Innovation distinguishes between a leader and a follower."* - Steve Jobs
-#### 🚀 Building tomorrow's solutions, one commit at a time
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source"/>
-</p>
-
-⭐ **Star my repositories if you find them helpful!** ⭐
+### 💭 *"Innovation distinguishes between a leader and a follower."*
+#### Building tomorrow's solutions today 🚀
 
 </div>
